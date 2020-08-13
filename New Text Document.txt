@@ -1,0 +1,55 @@
+Header
+About
+Work
+Contact
+Image Divider
+Footer
+
+Github :  https://github.com/MEHUL25
+Codechef: https://www.codechef.com/users/mehul25
+LinkeddIn:  https://www.linkedin.com/in/mehul-lokhande-94167a190/
+
+--Scroll to top
+--Achievements
+--Certifications
+-- Scroll to top    -<li class="nav__item"><a href="#work" class="nav__link">Hobbies</a></li>
+
+
+
+
+<section class="contact">
+	<div class="contact-content">
+		<h4>Have a project in mind? Email me:
+<a class="email" href="mailto:contact@xopixel.com">contact@xopixel.com</a></h4>
+	</div>
+</section>
+
+
+
+
+
+
+
+<footer>
+	<div class="footer-content">
+		<p class="credit">© Copyright 2016 Marisa Blair.<br>
+		Designed and Developed by Marisa Blair.</p>
+		<ul class="social">
+			<li>
+				<a href="#" target="_blank">twitter.</a>
+			</li>
+			<li>
+				<a href="#" target="_blank">pinterest.</a>
+			</li>
+			<li>
+				<a href="#" target="_blank">youtube.</a>
+			</li>
+			<li>
+				<a href="#" target="_blank">linkedin.</a>
+			</li>
+		</ul>
+	</div>
+</footer>
+
+
+
